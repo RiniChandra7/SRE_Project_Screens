@@ -1,5 +1,8 @@
 # SRE_Project_Screens
 
+## Technologies used-
+HTML, CSS, BootStrap, JavaScript, React.js
+
 ## Introduction-
 Time management is an integral part of all our everyday activities today. It is even more important in academic circles, where time management happens to be the key to excellence. This is applicable not just for students, but even more for teaching professionals, who are in charge of the future of their pupils. Nowadays, a teaching professional is not just limited to taking classes in order to impart knowledge; they are the ones responsible for imparting holistic education to students. Their activities are not just limited to taking lectures, but they also constitute designing a pedagogy that makes students actually understand and apply their learned concepts. A teaching professional now organizes workshops and seminars, plans informative activities, offers career guidance to students, acts as their guide to the world outside their institution, acts as their counselor, and so much more.
 Hence, it becomes extremely important to empower such professionals, and offer them a solution to the hurdles they face in managing their time. It is necessary for head of institutions to make sure that their work-life balance is ensured so that their work is of a high quality. Manually managing so many activities is error-prone, which is why an automated tool that helps them plan their work days is the need of the hour. Zenith Software Solutions is there to empower academicians by providing them a Personal Time Tracking System (PTTS), in order to enable efficient collaboration and fuss-free planning.
